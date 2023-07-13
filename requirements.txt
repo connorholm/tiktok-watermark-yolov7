@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+aiofiles
+tqdm
+matplotlib
+seaborn
+pandas
+opencv-python
+requests
+torch
+torchvision
+ffmpeg
