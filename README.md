@@ -1,7 +1,6 @@
 # Tiktok Watermark Remover
 <img src="./tiktok-logo.png"  width="30%" height="30%">
-</br>
-Using machine build a powerful tool that will be able to remove watermarks from downloaded Tiktok videos.
+Using machine learning to build a powerful tool that will be able to remove watermarks from downloaded Tiktok videos.
 </br>
 **Example:**
 * Input Video with Watermark ![input video](./testing/test.mp4)
@@ -27,8 +26,8 @@ Using machine build a powerful tool that will be able to remove watermarks from 
 Make sure that you have `conda` installed
 * run commands from inside the projects root directory
 
-### Creating the Virtual Enviornment
-* Run: `conda create -n watermark-remover` to create the new virtual enviornment
+### Creating the Virtual Environment
+* Run: `conda create -n watermark-remover` to create the new virtual environment
 * Install pip with `conda install pip`
 * Add all the required packages with `pip install -r requirements.txt`
 
