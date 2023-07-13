@@ -1,5 +1,5 @@
 # Tiktok Watermark Remover
-<img src="./tiktok-logo.png"  width="30%" height="30%">
+<img src="./tiktok-logo.png"  width="30%" height="30%"></img>
 Using machine learning to build a powerful tool that will be able to remove watermarks from downloaded Tiktok videos.
 </br>
 **Example:**
