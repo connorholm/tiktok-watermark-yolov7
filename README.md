@@ -29,6 +29,7 @@ Make sure that you have `conda` installed
 
 ### Creating the Virtual Environment
 * Run: `conda create -n watermark-remover` to create the new virtual environment
+* Activate the environment with `conda activate watermark-remover`
 * Install pip with `conda install pip`
 * Add all the required packages with `pip install -r requirements.txt`
 
