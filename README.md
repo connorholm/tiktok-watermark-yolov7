@@ -1,5 +1,7 @@
 # Tiktok Watermark Remover
-![tiktok logo](./tiktok-logo.png) Using machine build a powerful tool that will be able to remove watermarks from downloaded Tiktok videos.
+<img src="./tiktok-logo.png"  width="30%" height="30%">
+</br>
+Using machine build a powerful tool that will be able to remove watermarks from downloaded Tiktok videos.
 </br>
 **Example:**
 * Input Video with Watermark ![input video](./testing/test.mp4)
